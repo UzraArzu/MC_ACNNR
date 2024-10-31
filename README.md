@@ -13,6 +13,9 @@ https://github.com/renwudao24/SODIndoorLoc
 UTMInDualSymFi
 https://zenodo.org/records/7260097
 # Run
+
+Used jupyter notebook and Anaconda Enviroment
+
 preprocessing_data.ipynb: firstly run this file to normalize the data and create final .csv files
 
 SOD_machine_learning.ipynb: run this file to obtain performance values for indoor localization using machine learning based regression models.
