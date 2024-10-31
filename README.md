@@ -15,8 +15,9 @@ https://zenodo.org/records/7260097
 # Run
 
 Used jupyter notebook and Anaconda Enviroment
+Download Training_SYL_All_30.csv and  Testing_SYL_All.csv in SYL folder of SODIndoorLoc dataset, make a folder named "data", and save them Training_SYL.csv and Testing_SYL.csv.
 
-preprocessing_data.ipynb: firstly run this file to normalize the data and create final .csv files
+preprocessing_data.ipynb: firstly run this file to normalize the data and create final .csv files, and save them to SYL_preprocessed folder.
 
 SOD_machine_learning.ipynb: run this file to obtain performance values for indoor localization using machine learning based regression models.
 
