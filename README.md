@@ -1,5 +1,4 @@
 # MC_ACNNR
-# Multi-channel attention based CNN for indoor localization using dual band data
 # Multi-channel convolutional neural network with attention mechanism using dual-band WiFi signals for indoor positioning systems in smart buildings"
 
 The article link: https://www.sciencedirect.com/science/article/pii/S2542660524003767
